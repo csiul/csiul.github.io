@@ -1,0 +1,27 @@
+baseurl = "https://clubsecuriteinformatique.ift.ulaval.ca/"
+title = "# ~ CSIUL"
+theme = "hugo-theme-console"
+languageCode = "fr-ca"
+enableEmoji = true
+
+[params]
+  titleCutting = false
+
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "à propros/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "articles/"
+  url = "posts/"
+
+  [[params.navlinks]]
+  name = "débuter/"
+  url = "posts/how-to-start"
+
+  [[params.navlinks]]
+  name = "discord"
+  external = true
+  url = "https://discord.gg/aYS57maB9B"
