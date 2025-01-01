@@ -2,6 +2,7 @@
 date = '2024-12-30T20:25:43-05:00'
 draft = false
 title = 'Cryptography'
+author = 'Jean-Nicolas Turbis'
 +++
 
 La cryptographie protège les informations en les transformant pour qu'elles ne soient accessibles qu'à ceux qui possèdent les clés nécessaires.<!--more-->

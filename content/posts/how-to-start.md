@@ -2,6 +2,7 @@
 date = '2024-12-28T16:55:44-05:00'
 draft = false
 title = 'Comment débuter?'
+author = 'Jean-Nicolas Turbis'
 +++
 
 La cybersécurité est un domaine en constante évolution, essentiel pour protéger les systèmes informatiques et les données sensibles contre les menaces croissantes. Pour les débutants, il est crucial de comprendre les bases et de s'exercer sur des plateformes adaptées. <!--more--> Voici quelques ressources recommandées pour bien commencer :

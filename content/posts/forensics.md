@@ -2,6 +2,7 @@
 date = '2024-12-30T20:25:37-05:00'
 draft = false
 title = 'Forensics'
+author = 'Jean-Nicolas Turbis'
 +++
 
 Le forensics permet de traquer les hackers en analysant les traces numériques qu'ils laissent derrière eux, pour comprendre et reconstruire leurs actions.<!--more-->
@@ -18,11 +19,12 @@ C'est une discipline clé pour enquêter sur les intrusions et incidents de séc
 - [Eric Zimmerman](https://ericzimmerman.github.io/) : Suite d'outils spécialisés pour l'analyse des artéfacts Windows.
 - [Chainsaw](https://github.com/WithSecureLabs/chainsaw) et [Hayabusa](https://github.com/Yamato-Security/hayabusa) : Analyse rapide des journaux d'événements Windows et des artéfacts liés.
 - [Zeek](https://github.com/zeek/zeek) : Moteur d'analyse et de détection pour le trafic réseau.
+- [OleTools](https://github.com/decalage2/oletools) : Analysateur de fichier Microsoft Office.
 
 ## Lectures
 - [0xdf Forensics](https://0xdf.gitlab.io/tags#forensics) : Solutionnaires de défis forensics.
-- [HackTheBox Academy Introduction to Digital Forensics](https://academy.hackthebox.com/module/details/237)
-- [HackTheBox Academy User Behavior Forensics](https://academy.hackthebox.com/module/details/248)
+- [HackTheBox Academy Introduction to Digital Forensics](https://academy.hackthebox.com/course/preview/introduction-to-digital-forensics)
+- [HackTheBox Academy User Behavior Forensics](https://academy.hackthebox.com/course/preview/user-behavior-forensics)
 
 ## Vidéos
 - [Criminalistique numérique - Formation H23 - CSIUL](https://www.youtube.com/watch?v=MduAj9QB9Fc)
