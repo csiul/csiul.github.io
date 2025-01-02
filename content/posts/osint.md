@@ -5,9 +5,9 @@ title = 'OSINT'
 author = 'Jean-Nicolas Turbis'
 +++
 
-L'OSINT transforme les informations publiques en outils puissants pour révéler des secrets cachés et démêler des mystères numériques. <!--more-->
+L'Open Source Intelligence (OSINT) transforme les informations publiques en outils puissants pour révéler des secrets cachés et démêler des mystères numériques. <!--more-->
 
-L'Open Source Intelligence (OSINT) consiste à collecter et analyser des données accessibles publiquement pour répondre à des questions précises. Cela inclut des informations issues de réseaux sociaux, de registres publics, de bases de données, ou encore d'images satellites. L'OSINT est une compétence cruciale pour les enquêteurs en cybersécurité, les journalistes d'investigation, et les analystes de renseignement. Elle permet de découvrir des vulnérabilités, de retracer des individus ou des entités, et d'anticiper des menaces potentielles.
+L'OSINT consiste à collecter et analyser des données accessibles publiquement pour répondre à des questions précises. Cela inclut des informations issues de réseaux sociaux, de registres publics, de bases de données, ou encore d'images satellites. Elle permet de découvrir des vulnérabilités, de retracer des individus ou des entités, et d'anticiper des menaces potentielles.
 
 ## Outils
 - [Maltego](https://www.maltego.com/) : Visualisation et analyse de relations entre entités.
