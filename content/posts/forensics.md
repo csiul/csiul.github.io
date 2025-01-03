@@ -27,7 +27,7 @@ C'est une discipline clé pour enquêter sur les intrusions et incidents de séc
 - [HackTheBox Academy User Behavior Forensics](https://academy.hackthebox.com/course/preview/user-behavior-forensics)
 
 ## Vidéos
-- [Criminalistique numérique - Formation H23 - CSIUL](https://www.youtube.com/watch?v=MduAj9QB9Fc)
+- [Forensics - CSIUL](https://www.youtube.com/playlist?list=PLCls4shSpDVVLm7i1MnDITKTKsauDSuNc) : Playlist des formations passé du CSIUL sur le forensics.
 - [13Cubed](https://www.youtube.com/@13Cubed) : Vidéos détaillées sur l'analyse forensics.
 - [IppSec Sherlocks](https://www.youtube.com/results?search_query=IppSec+Sherlocks) : Solutionnaires vidéo des Sherlocks de HackTheBox.
 

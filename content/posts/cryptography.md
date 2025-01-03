@@ -25,11 +25,11 @@ Alice et Bob sont souvent utilisés comme personnages fictifs dans les exemples 
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/) : Série de challenges progressifs pour apprendre la cryptographie.
 - [Crypto101](https://www.crypto101.io/) : Livre open-source pour les débutants en cryptographie.
 
+## Vidéos
+- [Computerphile Cryptography](https://www.youtube.com/playlist?list=PLt5AfwLFPxWLXe-ZqZyu0kSsaWd4FjXbj) : Explications visuelles et simplifiées des concepts cryptographiques.
+- [Cryptographie - CSIUL](https://www.youtube.com/playlist?list=PLCls4shSpDVUAgmzuHYy4DRxFH_LsqNYx) : Playlist des formations passé du CSIUL sur la cryptographie.
+- [7 Cryptography Concepts - FireShip](https://www.youtube.com/watch?v=NuyzuNBFWxQ) : Explication simple et claire pour introduire.
+
 ## Défis
 - [Cryptohack](https://cryptohack.org/) : Plateforme éducative axée sur les bases et les concepts avancés de la cryptographie.
 - [HackTheBox Cryptography Challenges](https://app.hackthebox.com/challenges?category=2&sort_type=asc) : Résolution de problèmes cryptographiques pour obtenir des flags.
-
-## Vidéos
-- [Computerphile Cryptography](https://www.youtube.com/playlist?list=PLt5AfwLFPxWLXe-ZqZyu0kSsaWd4FjXbj) : Explications visuelles et simplifiées des concepts cryptographiques.
-- [CryptoWall - CSIUL](https://www.youtube.com/watch?v=7ho5Rx_SS6E) : Résolution d'un défi de crypto du Hackfest.
-- [7 Cryptography Concepts - FireShip](https://www.youtube.com/watch?v=NuyzuNBFWxQ) : Explication simple et claire pour introduire.

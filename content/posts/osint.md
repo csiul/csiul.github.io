@@ -27,6 +27,7 @@ L'OSINT consiste à collecter et analyser des données accessibles publiquement 
 - [OSINT Techniques](https://www.osinttechniques.com/) : Guide pratique sur la collecte et l'analyse d'informations publiques, avec des exemples concrets.
 
 ## Vidéos
+- [OSINT - CSIUL](https://www.youtube.com/playlist?list=PLCls4shSpDVVvbvDZwg_y6Ff2PWPsZLP1) : Playlist des formations passé du CSIUL sur l'OSINT.
 - [OSINT Dojo](https://www.youtube.com/@OSINTDojo) : Tutoriels sur les outils et techniques OSINT pour débutants et experts.
 - [The OSINT Curious Project](https://www.youtube.com/@OSINTCurious) : Vidéos sur des cas réels, outils, et méthodologies OSINT.
 - [Trace Labs](https://www.youtube.com/@TraceLabsVideos) : Enquêtes OSINT en temps réel et conseils pour les CTFs Trace Labs.
