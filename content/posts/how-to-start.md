@@ -32,7 +32,7 @@ La cybersécurité est un domaine en constante évolution, essentiel pour proté
 Dans le domaine de la cybersécurité, les équipes sont souvent divisées en deux catégories principales :
 
 - **Red Team** : Composée d'experts en sécurité offensive, cette équipe simule des attaques réelles pour identifier les vulnérabilités des systèmes. 
-- **Blue Team** : Responsable de la défense, cette équipe surveille, détecte et répond aux attaques pour protéger les infrastructures. 
+- **Blue Team** : Responsable de la défense, cette équipe surveille 24h/7, détecte et répond aux attaques pour protéger les infrastructures en contactant les utilisateurs, isolant des postes et créant des règles.
 
 ---
 
@@ -52,17 +52,33 @@ Les Capture The Flag (CTF) sont des compétitions où les participants résolven
 
 Les CTF permettent de mettre en pratique les concepts appris tout en s'amusant.
 
-> 
 ---
 
 ## Plateformes de Formation et de Pratique
 
-- [TryHackMe (THM)](https://tryhackme.com/) : Parcours interactifs pour tous niveaux.
 - [picoCTF](https://picoctf.org/) : Compétition éducative pour apprendre les bases.
+  - **Pros** : Idéal pour les débutants, défis éducatifs, gratuit.
+  - **Cons** : Moins de défis avancés pour les utilisateurs expérimentés.
 - [CTFLearn](https://ctflearn.com/) : Défis variés pour explorer la cybersécurité.
+  - **Pros** : Large variété de défis, interface conviviale.
+  - **Cons** : Certains défis peuvent manquer de profondeur.
+- [TryHackMe (THM)](https://tryhackme.com/) : Parcours interactifs pour tous niveaux.
+  - **Pros** : Parcours structurés, contenu pour tous niveaux, environnement pratique.
+  - **Cons** : Certaines fonctionnalités avancées nécessitent un abonnement payant.
+- [HackTheBox (HTB)](https://www.hackthebox.com/) : Défis de piratage éthique.
+  - **Pros** : Défis réalistes, large communauté, contenu pour tous niveaux.
+  - **Cons** : Beaucoup de défi avancé, mais devient de plus en plus accessible au débutant.
+- [HackTheBox Academy](https://academy.hackthebox.com/) : Plateforme d'apprentissage interactif en cybersécurité.
+  - **Pros** : Parcours d'apprentissage complets, contenu de haute qualité, rabais étudiant disponible, idéal pour tous niveaux.
+  - **Cons** : Abonnement payant nécessaire pour accéder à tout le contenu.
+- [OverTheWire](https://overthewire.org/) : Jeux pour apprendre la sécurité.
+  - **Pros** : Excellente introduction aux concepts de base, gratuit.
+  - **Cons** : Interface textuelle, peut être intimidant pour les débutants.
 - [Root-Me](https://www.root-me.org/) : Challenges couvrant divers aspects de la sécurité.
-- [Hack The Box (HTB)](https://www.hackthebox.com/) : Défis de piratage éthique.
-- [OverTheWire](https://overthewire.org/) : Jeux de guerre pour apprendre la sécurité.
+  - **Pros** : Large gamme de défis, communauté active.
+  - **Cons** : Interface moins intuitive, certains défis peuvent être très techniques.
+
+*Toutes les plateformes ci-dessus ont plus qu'assez de contenu gratuit pour satisfaire votre volonté a apprendre. Parcontre si vous voulez dépensez, nous vous recommandons fortement [HackTheBox Academy](https://academy.hackthebox.com/) avec le rabais étudiant à seulement 12$ par mois!*
 
 ---
 
@@ -76,7 +92,7 @@ Les CTF permettent de mettre en pratique les concepts appris tout en s'amusant.
 - [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy) : Formations en cybersécurité et conseils pour devenir un hacker éthique.
 - [PwnFunction](https://www.youtube.com/@PwnFunction) : Explications claires et concises sur divers sujets de cybersécurité.
 - [NahamSec](https://www.youtube.com/@NahamSec) : Live streams et vidéos sur le bug bounty et le hacking.
-- [CryptoCat](https://www.youtube.com/@_CryptoCat) : Exploration des techniques de cryptographie et de sécurité.
+- [CryptoCat](https://www.youtube.com/@_CryptoCat) : Résolution de CTF de multiple catégorie.
 
 ---
 
