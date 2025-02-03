@@ -208,8 +208,13 @@ figure {
     grid-template-rows: auto;
     grid-template-columns: repeat(
         auto-fit,
-        minmax(calc(var(--page-width) / 4), 1fr)
+        minmax(150px, min(20vw, 300px))
     );
+    justify-content: center; 
+    /* grid-template-columns: repeat(
+        auto-fit,
+        minmax(calc(var(--page-width) / 4), 1fr)
+    ); */
 }
 
 .terminal-prompt::after {
