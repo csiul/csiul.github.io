@@ -8,11 +8,9 @@ title = 'À propos'
 
 |Nom|Rôle|Discord|
 |---|---|---|
-|Laurie Valcourt-Lachance|Présidente|@mymelody1242|
-|Jean-Nicolas Turbis|VP Formations|@mydonut|
+|Jean-Nicolas Turbis|Président|@mydonut|
 |Ariel Jimenez|VP Trésorier|@beatboxmomo|
 |Sabrina Harouya|VP Communicatons|@evarina|
-|Samuel Paradis|VP ULCTF|@paradise14|
 
 ## Nous joindre
 ### En personne
