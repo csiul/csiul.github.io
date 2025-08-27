@@ -5,7 +5,7 @@ Que les flags :triangular_flag_on_post: coulent à flots !
 Le club est un groupe de passionnés de technologie, de cybersécurité, du hacking en général. Le club est ouvert à tous.
 
 # Inscription
-Pour vous inscrire, rejoignez le serveur [Discord](https://discord.gg/aYS57maB9B). Nous vous attendons avec impatience!
+Pour vous inscrire, rejoignez le serveur [Discord](https://discord.gg/5pQdCTdNMV). Nous vous attendons avec impatience!
 
 # Social
 
