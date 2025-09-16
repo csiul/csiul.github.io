@@ -12,6 +12,7 @@ title = 'À propos'
 |Ariel Jimenez|VP Trésorier|@beatboxmomo|
 |Thomas Poulin|VP Partenariat|@lebob|
 |Sabrina Harouya|VP Communication|@evarina|
+|Sajjad Khaveri|VP Réseaux Sociaux|kh.sajjad|
 |Gabriel Bouchard|VP CTF|@jackorion|
 |Romain Gardet|VP Compétition|@alphawolf77|
 |David Michel Pedneault|VP Formation|@dawood|
