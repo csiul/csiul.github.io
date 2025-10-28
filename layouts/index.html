@@ -24,20 +24,23 @@
 {{ end }}
 </div>
 
-<h1>Commanditaires</h1>
+<div class="sponsors-section">
+  <h1>Commanditaires</h1>
 
-<div class="image-grid">
-{{ with .Site.GetPage "/sponsors" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Params.website }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
+  <div class="sponsors-grid">
+  {{ with .Site.GetPage "/sponsors" }}
+    {{ range sort .Pages "Title" }}
+      <a href="{{ .Params.website }}" title="{{ .Title }}">
+        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="sponsor-logo {{ .Params.size }}">
+      </a>
     {{ end }}
-{{ end }}
+  {{ end }}
+  </div>
 </div>
+
+<p class="see-all">
+  <a href="/sponsors/">En savoir plus →</a>
+</p>
+
 
 {{ end }}
