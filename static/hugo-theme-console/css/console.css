@@ -423,7 +423,7 @@ figure {
 .sponsors-grid {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
   flex-wrap: wrap;
   gap: 3rem;
   margin: 2rem auto;
@@ -442,20 +442,29 @@ figure {
 }
 
 .sponsor-logo.small {
-  height: 90px !important;
+  width: 120px;
+  height: auto;
+  max-height: 90px;
 }
 
 .sponsor-logo.medium {
-  height: 120px !important;
+  width: 180px;
+  height: auto;
+  max-height: 120px;
 }
 
 .sponsor-logo.large {
-  height: 150px !important;
+  width: 240px;
+  height: auto;
+  max-height: 150px;
 }
 
 .sponsor-logo.x-large {
-  height: 200px !important;
+  width: 320px;
+  height: auto;
+  max-height: 200px;
 }
+
 @media (max-width: 768px) {
   .sponsor-item,
   .sponsor-item.reverse {

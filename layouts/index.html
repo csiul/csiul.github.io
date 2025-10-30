@@ -28,11 +28,16 @@
   <h1>Commanditaires</h1>
 
   <div class="sponsors-grid">
-  {{ with .Site.GetPage "/sponsors" }}
-    {{ range sort .Pages "Title" }}
-      <a href="{{ .Params.website }}" title="{{ .Title }}">
-        <img src="{{ .Params.image }}" alt="{{ .Title }}" class="sponsor-logo {{ .Params.size }}">
-      </a>
+  {{ with .Site.GetPage "section" "sponsors" }}
+    {{ $sponsorsPage := . }}
+    {{ $sizes := slice "x-large" "large" "medium" "small" }}
+    {{ range $sizes }}
+      {{ $size := . }}
+      {{ range where $sponsorsPage.Pages "Params.size" "eq" $size }}
+        <a href="{{ .Params.website }}" title="{{ .Title }}">
+          <img src="{{ .Params.image }}" alt="{{ .Title }}" class="sponsor-logo {{ .Params.size }}">
+        </a>
+      {{ end }}
     {{ end }}
   {{ end }}
   </div>
