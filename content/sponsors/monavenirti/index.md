@@ -5,6 +5,5 @@ title = "Mon Avenir TI"
 website = "https://www.monavenirti.org/"
 type = "gallery"
 size = "large"
-slogan = "Construisons ensemble l’avenir de la tech québécoise"
-description = "Mon Avenir TI est la plateforme dédiée aux professionnels et entreprises de l’industrie des technologies de l’information au Québec. En réunissant sociétés-membres, partenaires et administrateurs, elle favorise la collaboration, le développement des compétences et la progression collective. Grâce à un éventail de services, d’activités et de mises à jour pertinentes, Mon Avenir TI supporte la croissance des acteurs TI en proposant des occasions d’échange, de mentorat et d’innovation. Que vous soyez un expert chevronné ou un nouvel arrivant déterminé à faire votre marque, Mon Avenir TI vous invite à devenir membre et à participer à la construction d’un écosystème TI fort et dynamique."
+description = "Mon Avenir TI regroupe les entreprises technologiques de la grande région de Québec autour d’une mission commune : inspirer, développer et propulser la relève en technologies de l’information. En soutenant des clubs étudiants tels que le Club de Sécurité Informatique de l’Université Laval (CSIUL), nous contribuons à créer des ponts concrets entre les jeunes talents et les entreprises d’ici, afin de bâtir ensemble un écosystème numérique fort, inclusif et innovant."
 +++
