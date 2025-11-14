@@ -322,3 +322,172 @@ figure {
         padding-top: 5px;
     }
 }
+
+/* ===== Page des commanditaires (mise en page alternée) ===== */
+.sponsors-page {
+  text-align: center;
+  margin: 3rem auto;
+  max-width: 1100px;
+  padding: 0 1rem;
+}
+
+.sponsors-intro {
+  font-size: 1.1rem;
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.sponsors-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  align-items: center;
+}
+
+.sponsor-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  width: 100%;
+  max-width: 950px;
+  text-align: left;
+}
+
+.sponsor-item.reverse {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+/* ===== Logos uniformes sur la page des commanditaires ===== */
+.sponsor-logo.uniform {
+  width: 300px;            
+  height: 220px; 
+  object-fit: contain; 
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  transition: transform 0.2s ease-in-out;
+  box-sizing: border-box;
+}
+
+.sponsor-logo.uniform:hover {
+  transform: scale(1.05);
+}
+
+
+.sponsor-item a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 260px;
+  height: 130px;
+}
+
+.sponsor-info {
+  flex: 1;
+  min-width: 300px;
+  max-width: 550px;
+}
+
+.sponsor-info h2 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.6rem;
+}
+
+.sponsor-slogan {
+  color: #0099cc;
+  font-style: italic;
+  margin: 0 0 0.8rem 0;
+}
+
+.sponsor-description {
+  margin: 0;
+  line-height: 1.5;
+  font-size: 1rem;
+}
+
+.sponsors-section {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.sponsors-section h1 {
+  margin-bottom: 2rem;
+}
+
+.sponsors-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+  margin: 2rem auto;
+  max-width: 1000px;
+}
+
+.sponsor-logo {
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  transition: transform 0.2s ease-in-out;
+}
+
+.sponsor-logo:hover {
+  transform: scale(1.05);
+}
+
+.sponsor-logo.small {
+  width: auto;
+  height: auto;
+  max-height: 100px;
+}
+
+.sponsor-logo.medium {
+  width: 180px;
+  height: auto;
+  max-height: 100px;
+}
+
+.sponsor-logo.large {
+  width: 240px;
+  height: auto;
+  max-height: 200px;
+}
+
+.sponsor-logo.x-large {
+  width: 320px;
+  height: auto;
+  max-height: 200px;
+}
+
+@media (max-width: 768px) {
+  .sponsor-item,
+  .sponsor-item.reverse {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .sponsor-info {
+    max-width: 90%;
+  }
+
+  .sponsors-grid {
+    gap: 2rem;
+    max-width: 90%;
+  }
+
+  .sponsor-logo.uniform {
+    width: 200px;
+    height: 100px;
+  }
+
+  .sponsor-item a {
+    width: 200px;
+    height: 100px;
+  }
+}

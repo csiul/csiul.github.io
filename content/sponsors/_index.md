@@ -1,5 +1,8 @@
-+++
-title = "Commanditaires"
-type = "gallery"
-+++
+---
+
+title: "Nos commanditaires"
+
+---
+
+
 

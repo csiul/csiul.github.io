@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+<div class="sponsors-page">
+  <h1>{{ .Title }}</h1>
+
+  <p class="sponsors-intro">
+    Merci à nos partenaires pour leur précieux soutien.  
+    Leur collaboration contribue directement à la réussite de nos projets.
+  </p>
+
+  <div class="sponsors-list">
+    {{ $sizes := slice "x-large" "large" "medium" "small" }}
+    {{ $counter := 0 }}
+    {{ range $sizes }}
+      {{ $size := . }}
+      {{ range where $.Pages "Params.size" "eq" $size }}
+        <div class="sponsor-item {{ if mod $counter 2 }}reverse{{ end }}">
+          <a href="{{ .Params.website }}" title="{{ .Title }}" target="_blank">
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" class="sponsor-logo uniform">
+          </a>
+
+          <div class="sponsor-info">
+            <h2>{{ .Title }}</h2>
+
+            {{ with .Params.slogan }}
+              <p class="sponsor-slogan"><em>{{ . }}</em></p>
+            {{ end }}
+
+            {{ with .Params.description }}
+              <p class="sponsor-description">{{ . }}</p>
+            {{ end }}
+          </div>
+        </div>
+        {{ $counter = add $counter 1 }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
