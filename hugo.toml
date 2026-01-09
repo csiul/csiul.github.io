@@ -10,7 +10,7 @@ enableEmoji = true
   animateStyle = "animated zoomIn fast" 
 
   [[params.navlinks]]
-  name = "à propros/"
+  name = "à propos/"
   url = "about/"
 
   [[params.navlinks]]
