@@ -1,4 +1,6 @@
 +++
+
+weight = 6
 image = "/images/sponsors/departdinfo.png"
 date = "2025-10-28"
 title = "Département d’informatique et de génie logiciel – Université Laval"
@@ -7,3 +9,4 @@ type = "gallery"
 size = "small"
 slogan = "Le savoir en technologies et en sciences de l'information à votre portée."
 +++
+
