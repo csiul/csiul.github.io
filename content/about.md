@@ -9,14 +9,17 @@ title = 'À propos'
 |Nom|Rôle|Discord|
 |---|---|---|
 |Jean-Nicolas Turbis|Président|@mydonut|
+|Romain Gardet|Président|@alphawolf77|
 |Ariel Jimenez|VP Trésorier|@beatboxmomo|
+|Édouard Sylvestre|Assistant-VP Trésorier|@eddd0124|
 |Thomas Poulin|VP Partenariat|@lebob|
-|Sabrina Harouya|VP Communication|@evarina|
+|Dimitri Seaborn|VP Compétitions|@qwertyu0|
+|Marie-Sarah Beaugrand|VP Communication|@mariepop13|
 |Gabriel Bouchard|VP CTF|@jackorion|
-|Romain Gardet|VP Compétition|@alphawolf77|
-|David Michel Pedneault|VP Formation|@dawood|
-|Édouard Leblanc|VP Projet Lab Hacking|@eddy|
 |Pierre-Michel Goma Gakissa|VP Design|@pierregm|
+|Aboubacar Sylla|VP Formations|@abouabacarsylla|
+|David Michel Pedneault|VP Formation|@dawood|
+|Jérémy Dumas|VP Soutien|@GrosDino|
 
 ## Nous joindre
 ### En personne
