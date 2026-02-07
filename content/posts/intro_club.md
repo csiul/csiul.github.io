@@ -17,7 +17,8 @@ Nos formations sont aussi enregistrées et partagées sur notre chaîne [Youtube
 ## Table des Matières
 1. [Formations](#les-formations)
 2. [Projets](#les-projets)
-3. [Venez nous voir !](#venez-nous-voir-)
+3. [Compétitions](#les-compétitions)
+4. [Venez nous voir !](#venez-nous-voir-)
 
 ---
 
@@ -26,6 +27,10 @@ Nos formations sont aussi enregistrées et partagées sur notre chaîne [Youtube
 ---
 
 ## Les Projets
+
+---
+
+## Les Compétitions
 
 ---
 
