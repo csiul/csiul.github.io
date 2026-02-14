@@ -18,7 +18,6 @@ title = 'À propos'
 |Gabriel Bouchard|VP CTF|@jackorion|
 |Pierre-Michel Goma Gakissa|VP Design|@pierregm|
 |Aboubacar Sylla|VP Formations|@abouabacarsylla|
-|David Michel Pedneault|VP Formation|@dawood|
 |Jérémy Dumas|VP Soutien|@GrosDino|
 
 ## Nous joindre
