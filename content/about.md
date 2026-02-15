@@ -13,22 +13,22 @@ title = 'À propos'
 |Ariel Jimenez|VP Trésorier|@beatboxmomo|
 |Édouard Sylvestre|Assistant-VP Trésorier|@eddd0124|
 |Thomas Poulin|VP Partenariat|@lebob|
-|Dimitri Seaborn|VP Compétitions|@qwertyu0|
+|Dimitri Seaborn|VP Compétition|@qwertyu0|
 |Marie-Sarah Beaugrand|VP Communication|@mariepop13|
 |Gabriel Bouchard|VP CTF|@jackorion|
 |Pierre-Michel Goma Gakissa|VP Design|@pierregm|
-|Aboubacar Sylla|VP Formations|@abouabacarsylla|
+|Aboubacar Sylla|VP Formation|@abouabacarsylla|
 |Jérémy Dumas|VP Soutien|@GrosDino|
 
 ## Nous joindre
 ### En personne
-```
+
 Université Laval
 Local PLT-3778,
 1065 avenue de la Médecine,
 Pavillon Adrien-Pouliot,
 Québec (QC), Canada
-```
+
 
 ### En ligne
 clubhacking@fsg.ulaval.ca
