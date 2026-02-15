@@ -23,11 +23,11 @@ title = 'À propos'
 ## Nous joindre
 ### En personne
 
-Université Laval
-Local PLT-3778,
-1065 avenue de la Médecine,
-Pavillon Adrien-Pouliot,
-Québec (QC), Canada
+> Université Laval
+> Local PLT-3778,
+> 1065 avenue de la Médecine,
+> Pavillon Adrien-Pouliot,
+> Québec (QC), Canada
 
 
 ### En ligne
