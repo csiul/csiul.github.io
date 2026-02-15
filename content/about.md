@@ -23,13 +23,13 @@ title = 'À propos'
 ## Nous joindre
 ### En personne
 
-```text
-Université Laval
-Local PLT-3778,
-1065 avenue de la Médecine,
-Pavillon Adrien-Pouliot,
+<div style="background-color: var(--code-bg-color); padding: 15px; font-family: var(--mono-font-stack); margin-bottom: 25px;">
+Université Laval<br>
+Local PLT-3778,<br>
+1065 avenue de la Médecine,<br>
+Pavillon Adrien-Pouliot,<br>
 Québec (QC), Canada
-```
+</div>
 
 ### En ligne
 clubhacking@fsg.ulaval.ca
