@@ -8,10 +8,8 @@ title = 'À propos'
 
 |Nom|Rôle|Discord|
 |---|---|---|
-|Jean-Nicolas Turbis|Président|@mydonut|
 |Romain Gardet|Président|@alphawolf77|
-|Ariel Jimenez|VP Trésorier|@beatboxmomo|
-|Édouard Sylvestre|Assistant-VP Trésorier|@eddd0124|
+|Édouard Sylvestre|VP Trésorier|@eddd0124|
 |Thomas Poulin|VP Partenariat|@lebob|
 |Dimitri Seaborn|VP Compétition|@qwertyu0|
 |Marie-Sarah Beaugrand|VP Communication|@mariepop13|
