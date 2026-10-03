@@ -7,6 +7,7 @@ Le site utilise le thème [Hugo Theme Console](https://github.com/mrmierzejewski
 ## Fonctionnalités
 - **Page d'accueil** : Informations sur le club et ses activités.
 - **Articles** : Ressources pour apprendre les concepts fondamentaux de la cybersécurité.
+- **Writeups** : Ressources expliquant comment résoudre des défis de compétitions passées.
 
 ## Contribuer au site
 
