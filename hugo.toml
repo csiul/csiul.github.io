@@ -22,6 +22,10 @@ enableEmoji = true
   url = "posts/how-to-start"
 
   [[params.navlinks]]
+  name = "writeups/"
+  url = "writeups/"
+
+  [[params.navlinks]]
   name = "discord"
   external = true
   url = "https://discord.gg/5pQdCTdNMV"
