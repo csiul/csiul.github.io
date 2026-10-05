@@ -5,7 +5,7 @@
 
 <div class="posts-list">
 {{ if .Params.competition }}
-    {{ range sort .Pages "Title" "asc" }}
+    {{ range sort (sort .Pages "Title" "asc") "Params.category" "asc" }}
         <div class="post">
             <p>
                 <div class="ctf-category">{{ .Params.category }}</div>    
