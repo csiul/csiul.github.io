@@ -183,6 +183,7 @@ strong {
 
 .terminal-menu li {
     margin-right: 30px;
+    white-space: nowrap;
 }
 
 figure {
