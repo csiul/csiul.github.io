@@ -1,11 +1,10 @@
 +++
-date = '2026-10-02T20:51:57-04:00'
-draft = true
-title = 'CSALE Revenge (Web)'
-author = ''
+draft = false
+title = 'CSALE Revenge'
+category = 'Web'
 +++
 
-> _The one that was originally meant to be deployed... flag format `csaw{}`
+> The one that was originally meant to be deployed...`
 
 <!--more-->
 
