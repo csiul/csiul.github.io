@@ -254,6 +254,17 @@ figure {
     padding-top: 0;
 }
 
+.posts-list .ctf-category {
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    width: 130px;
+    z-index: 400;
+    padding-top: 0;
+    padding-right: 10px;
+    text-align: right;
+}
+
 .logo {
     margin: 0 auto;
     max-width: 50%;
@@ -316,6 +327,11 @@ figure {
         padding-top: 0;
         display: none;
     }
+
+    .posts-list .ctf-category {
+        display: none;
+    }
+
 
     .footer {
         margin-top: 50px;
