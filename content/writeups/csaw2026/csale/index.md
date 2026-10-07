@@ -1,11 +1,10 @@
 +++
-date = '2026-10-02T20:51:57-04:00'
-draft = true
-title = 'CSALE (Web)'
-author = ''
+draft = false
+title = 'CSALE'
+category = 'Web'
 +++
 
-> _Welcome to the CSAW Store, we have a special CSALE going on. Enjoy the deals... and bugs...!
+> Welcome to the CSAW Store, we have a special CSALE going on. Enjoy the deals... and bugs...!
 
 <!--more-->
 
